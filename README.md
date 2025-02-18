@@ -10,8 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="data:image/png;base64,![ink](https://github.com/user-attachments/assets/5c6b05ad-ae04-4135-91dd-9cf96bac1ae2)
-" alt="Ink Tattoo Parlor Logo">
+            <img src="data:image/png;base64,![ink](https://github.com/user-attachments/assets/5c6b05ad-ae04-4135-91dd-9cf96bac1ae2)" alt="Ink Tattoo Parlor Logo">
         </div>
         <nav>
             <ul>
