@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ink Tattoo Parlor</title>
+    <title>Ink Mafia Tattoo & Piercing</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -34,9 +34,9 @@
     <section id="contact">
         <h2>Contact Us</h2>
         <address>
-            <p>Email: info@inktattooparlor.com</p>
-            <p>Phone: (123) 456-7890</p>
-            <p>Address: 123 Ink St, Tattoo City, TC 12345</p>
+            <p>Email: inkmafiaaz@gmail.com</p>
+            <p>Phone: (480) 219-1714</p>
+            <p>Address: 1235 S Gilbert Rd #9, Mesa, AZ 85204</p>
         </address>
     </section>
 
